@@ -5,3 +5,4 @@ description = "My private registryAsad's Julia Lang local package repository"
 
 [packages]
 14278492-aaf9-5525-8468-49e3f68cdca1 = { name = "QuantLibjl_jll", path = "jll/Q/QuantLibjl_jll" }
+7ac58d11-17a9-4d9e-923b-caf08635d133 = { name = "QuantLib", path = "Q/QuantLib" }

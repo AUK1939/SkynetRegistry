@@ -1,0 +1,3 @@
+name = "QuantLib"
+uuid = "7ac58d11-17a9-4d9e-923b-caf08635d133"
+repo = "git@github.com:AUK1939/QuantLib.jl.git"

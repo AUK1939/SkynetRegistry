@@ -1,0 +1,5 @@
+[0]
+CxxWrap = "0.16"
+Dates = "1.11.0 - 1"
+QuantLibjl_jll = "1.0.1 - 1"
+julia = "1"
