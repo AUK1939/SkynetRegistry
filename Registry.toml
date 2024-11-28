@@ -1,0 +1,6 @@
+name = "SkynetRegistry"
+uuid = "3607329a-7693-45f1-b2d0-3aaa1b6280e8"
+repo = "git@github.com:AUK1939/SkynetRegistry.git"
+description = "My private registryAsad's Julia Lang local package repository"
+
+[packages]
